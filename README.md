@@ -1,4 +1,4 @@
-A Projec on Data Visualization.
+Mini Project on Data Viz
 
 Data Visualization
 
